@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **sizzle0816/sizzle0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>Hard Ware</h3>
+<p>Windows, AMD Ryzen 5, AMD RADEON</p>
+<h3>Soft Ware</h3>
+<p>Visual Studio code, GitHub, IDLE(Python)</p>
